@@ -15,4 +15,4 @@ Time    Place   Event
 12:00 - 1:30pm  Jurasic Room    Lunch
 1:30 - 2:00pm   Triasic Room    Ada Byron on "Making the switch back to DOS"
 2:00 - 2:30pm   Triasic Room    C. Syntax on "OS/2 as a Multi-Tasking QBASIC Platform"
-2:30 - 3:00pm   Triasic Room    Eunice Unix on "Where do we go from here?"
+2:30 - 3:00pm   Triasic Room  Eunice Unix on "Where do we go from here?"
